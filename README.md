@@ -276,7 +276,7 @@ You can use a language you are comfortable in to do the coding part of the inter
 
 - C++
 - Java
-- Python
+- <mark>Python</mark>
 
 You could also use these, but read around first. There may be caveats:
 
@@ -1991,3 +1991,4 @@ Sit back and enjoy. "Netflix and skill" :P
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+

@@ -185,6 +185,10 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ---
 
+
+<details>
+<summary>Why use it? How to use?</summary>
+
 ## Why use it?
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
@@ -232,6 +236,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
+</details>
 
 ## Don't feel you aren't smart enough
 

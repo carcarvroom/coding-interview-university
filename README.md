@@ -46,7 +46,9 @@
 
 </details>
 
-## What is it?
+<details>
+<summary>What is it?</summary>
+
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
@@ -62,6 +64,7 @@ Facebook and Microsoft view software engineering as different from software/web 
 If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
 
 ---
+</details>
 
 ## Table of Contents
 

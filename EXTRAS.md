@@ -11,7 +11,7 @@
 - [ ] Strings: get character at index, get range, concatenate
 - [ ] Initializing 2d arrays
 - [ ] Arithmetic: modulus (remainder), division (if the first operand is an integer, will it round the result to an integer?), rounding (ceiling and floor)
-(- [ ] Bonus) Switch statements
+- [ ] (Bonus) Switch statements
 - [ ] (Bonus) Built-in language sorting. Quickly defining a comparator to sort an array.
 - [ ] (More advanced candidates) The 5 standard bit manipulation operations (L/R shifts, not, or, and, xor)
 

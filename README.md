@@ -1,5 +1,6 @@
 # Coding Interview University
-
+<details>
+<summary>Welcome</summary>
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
@@ -11,6 +12,7 @@
 > including the giants: Amazon, Facebook, Google, and Microsoft.
 >
 > *Best of luck to you!*
+</details>
 
 <details>
 <summary>Translations:</summary>
@@ -48,7 +50,6 @@
 
 <details>
 <summary>What is it?</summary>
-
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
@@ -255,8 +256,8 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
@@ -278,7 +279,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [ ] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
-## Pick One Language for the Interview
+    ## Pick One Language for the Interview
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
@@ -481,7 +482,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
 
 - [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
     - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
     - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)

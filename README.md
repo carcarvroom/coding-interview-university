@@ -484,7 +484,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] **How computers process a program:**
     - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA) (Review)
     - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA) (Review)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
     - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
@@ -494,7 +494,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review
 - If some lectures are too mathy, you can jump down to the bottom and watch the discrete mathematics videos to get the background knowledge
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
@@ -512,6 +512,12 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
 ## Data Structures
+### Think about these for every DS:
+ - How to ACCESS (one item / all items)
+ - How to INSERT (at end / at position)
+ - How to DELETE (from end / from position)
+ - How to FIND (if exists / what location)
+ - How to SORT (sort in place / created sorted version)
 
 - ### Arrays
     - Implement an automatically resizing vector.
